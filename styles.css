@@ -82,8 +82,3 @@ body {
 .date.next-month {
     color: #ccc;
 }
-
-.date.selected {
-    background-color: #007bff;
-    color: #fff;
-}
